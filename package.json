@@ -1,0 +1,19 @@
+{
+  "name": "myslideshow",
+  "version": "1.0.0",
+  "description": "Internship coding assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita Jain",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "file-api": "^0.10.4",
+    "http": "0.0.1-security",
+    "sharp": "^0.25.4",
+    "videoshow": "^0.1.12"
+  }
+}
