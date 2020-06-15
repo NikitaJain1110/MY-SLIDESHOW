@@ -6,7 +6,7 @@ To run this project...follow the following simple steps-
 4. Find the converted images-to-video named "myslideshow.mp4" in the project folder.
 
 Sources: 
-https://ffmpeg.org/
-https://github.com/tanersener/ffmpeg-video-slideshow-scripts
-https://github.com/fluent-ffmpeg/node-fluent-ffmpeg
+https://ffmpeg.org/ /
+https://github.com/tanersener/ffmpeg-video-slideshow-scripts /
+https://github.com/fluent-ffmpeg/node-fluent-ffmpeg /
 and other online stuff
